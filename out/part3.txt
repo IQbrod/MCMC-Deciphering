@@ -7,3 +7,14 @@ Again, keep this tight to the chest. The more who know about this, the smaller t
 Nothing found on 0x4374aaee247fb237ce6c97d5c8d64bbe474d16de
 https://polygonscan.com/address/0x4374aaee247fb237ce6c97d5c8d64bbe474d16de
 https://opensea.io/0x4374aaee247fb237ce6c97d5c8d64bbe474d16de
+
+Found out that Ceasar + 13 is enough to fix it
+
+Hello again friends, we have made significant progress on the location of Santa's stolen ice cream. A receipt was found at the scene of the crime with a potential address. We are on our way right now. Also written on the receipt was:
+Keyword 3 of 6: "4374aaee247fb237ce6c97d5c8d64bbe474d16de" 
+Again, keep this tight to the chest. The more who know about this, the smaller the odds are that you crack the code first.
+
+Goldman told 4374aaee247fb237ce6c97d5c8d64bbe474d16de had still some hidden message
+Looks like any common hash, will try SHA1 as it is a common hashing protocol
+
+SHA 1 => to
